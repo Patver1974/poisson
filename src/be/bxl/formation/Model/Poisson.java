@@ -17,7 +17,7 @@ public class Poisson {
     public Poisson(String nom, Sexe sexe) {
         this.nom = nom;
         this.sexe = sexe;
-        Pv = 10;
+        Pv = 4;
         this.age = 0;
     }
 
