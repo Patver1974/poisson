@@ -11,14 +11,22 @@ public class Poisson {
     private Integer age=0;
     private Nourriture nourriture;
     private TypeDeSexualite TypeSexe;
+private Integer Tours;
 
+    public Integer getTours() {
+        return Tours;
+    }
 
+    public void setTours(Integer tours) {
+        Tours = tours;
+    }
 
     public Poisson(String nom, Sexe sexe) {
         this.nom = nom;
         this.sexe = sexe;
-        Pv = 4;
+        this.setPv(10);
         this.age = 0;
+        this.setTours(0);
     }
 
     public String getNom() {

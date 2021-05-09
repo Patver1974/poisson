@@ -1,0 +1,487 @@
+Initialise le jour 
+---------------
+Nombre poisson : 3Nombre Algue 2
+Voici les algues
+age 0 Pv  : 10
+age 0 Pv  : 10
+
+Voici les poissons
+PoissonClown David Herbivore M hermaphroditeOpporuniste age : 0 pv: 10
+ bar Celia Carnivore M hermaphroditeAvecLAge age : 0 pv: 10
+ PoissonClown David Herbivore M hermaphroditeOpporuniste age : 0 pv: 10
+ Jour 1
+-----------Celia a mordu David
+
+ 
+Voici les algues
+age 1 Pv  : 11
+age 1 Pv  : 11
+
+Voici les poissons
+PoissonClown David Herbivore M hermaphroditeOpporuniste age : 1 pv: 5
+ bar Celia Carnivore M hermaphroditeAvecLAge age : 1 pv: 14
+ PoissonClown David Herbivore M hermaphroditeOpporuniste age : 1 pv: 9
+ Jour 2
+-----------Algues 2 mangee par poisson David pv7
+David et David ont fait un enfant nommerJulieCelia veux se manger lui-meme
+David et David ont fait un enfant nommerEvaJ ai ajouter 2 poissons
+ 
+Voici les algues
+age 2 Pv  : 12
+age 2 Pv  : 10
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 2 pv: 7
+ bar Celia Carnivore M hermaphroditeAvecLAge age : 2 pv: 13
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 2 pv: 8
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 0 pv: 10
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 0 pv: 10
+ Jour 3
+-----------Celia a mordu David
+Algues 1 mangee par poisson David pv6
+
+ 
+Voici les algues
+age 3 Pv  : 11
+age 3 Pv  : 11
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 3 pv: 6
+ bar Celia Carnivore M hermaphroditeAvecLAge age : 3 pv: 17
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 3 pv: 6
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 1 pv: 9
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 1 pv: 9
+ Jour 4
+-----------Algues 2 mangee par poisson David pv8
+Celia a mordu Julie
+Algues 1 mangee par poisson David pv8
+David et David ont fait un enfant nommerLorenzoAlgues 1 mangee par poisson Julie pv7
+J ai ajouter 1 poissons
+ 
+Voici les algues
+age 4 Pv  : 8
+age 4 Pv  : 10
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 4 pv: 8
+ bar Celia Carnivore M hermaphroditeAvecLAge age : 4 pv: 21
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 4 pv: 8
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 2 pv: 7
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 2 pv: 8
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 0 pv: 10
+ Jour 5
+-----------Celia a mordu Eva
+Algues 2 mangee par poisson Eva pv6
+
+ 
+Voici les algues
+age 5 Pv  : 9
+age 5 Pv  : 9
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 5 pv: 7
+ bar Celia Carnivore M hermaphroditeAvecLAge age : 5 pv: 25
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 5 pv: 7
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 3 pv: 6
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 3 pv: 6
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 1 pv: 9
+ Jour 6
+-----------Celia a mordu Julie
+Algues 2 mangee par poisson Julie pv4
+Julie et Julie ont fait un enfant nommerClemenceAlgues 2 mangee par poisson Eva pv8
+J ai ajouter 1 poissons
+ 
+Voici les algues
+age 6 Pv  : 5
+age 6 Pv  : 1
+age 0 Pv  : 10
+age 0 Pv  : 10
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 6 pv: 6
+ bar Celia Carnivore M hermaphroditeAvecLAge age : 6 pv: 29
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 6 pv: 6
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 4 pv: 4
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 4 pv: 8
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 2 pv: 8
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 0 pv: 10
+ Jour 7
+-----------Algues 2 mangee par poisson David pv8
+Celia a mordu Eva
+Algues 3 mangee par poisson David pv8
+David et David ont fait un enfant nommerLucieAlgues 2 mangee par poisson Julie pv6
+Algues 4 mangee par poisson Eva pv6
+J ai ajouter 1 poissons1 algues sont mortes aujourdhui
+
+ 
+Voici les algues
+age 7 Pv  : 6
+age 1 Pv  : 9
+age 1 Pv  : 9
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 7 pv: 8
+ bar Celia Carnivore M hermaphroditeAvecLAge age : 7 pv: 33
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 7 pv: 8
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 5 pv: 6
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 5 pv: 6
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 3 pv: 7
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 1 pv: 9
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 0 pv: 10
+ Jour 8
+-----------Celia a mordu David
+Algues 5 mangee par poisson Julie pv8
+Algues 2 mangee par poisson Eva pv8
+Eva et Eva ont fait un enfant nommerJeremyClemence et Clemence ont fait un enfant nommerEtienneJ ai ajouter 2 poissons
+ 
+Voici les algues
+age 8 Pv  : 7
+age 2 Pv  : 3
+age 2 Pv  : 5
+age 0 Pv  : 10
+age 0 Pv  : 8
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 8 pv: 3
+ bar Celia Carnivore M hermaphroditeAvecLAge age : 8 pv: 37
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 8 pv: 7
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 6 pv: 8
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 6 pv: 8
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 4 pv: 6
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 2 pv: 8
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 1 pv: 9
+ PoissonClown Jeremy Herbivore M hermaphroditeOpporuniste age : 0 pv: 10
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 0 pv: 10
+ Jour 9
+-----------Algues 4 mangee par poisson David pv5
+Celia a mordu David
+Algues 2 mangee par poisson David pv5
+Algues 5 mangee par poisson Lorenzo pv8
+
+ 
+Voici les algues
+age 9 Pv  : 8
+age 3 Pv  : 2
+age 3 Pv  : 6
+age 1 Pv  : 9
+age 1 Pv  : 7
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 9 pv: 5
+ bar Celia Carnivore M hermaphroditeAvecLAge age : 9 pv: 41
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 9 pv: 5
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 7 pv: 7
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 7 pv: 7
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 5 pv: 8
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 3 pv: 7
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 2 pv: 8
+ PoissonClown Jeremy Herbivore M hermaphroditeOpporuniste age : 1 pv: 9
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 1 pv: 9
+ Jour 10
+-----------Algues 4 mangee par poisson David pv7
+Celia a mordu Julie
+Algues 5 mangee par poisson David pv7
+Algues 3 mangee par poisson Julie pv5
+
+ 
+Voici les algues
+age 10 Pv  : 9
+age 4 Pv  : 3
+age 4 Pv  : 5
+age 2 Pv  : 3
+age 2 Pv  : 6
+age 0 Pv  : 10
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 10 pv: 7
+ bar Celia Carnivore F hermaphroditeAvecLAge age : 10 pv: 45
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 10 pv: 7
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 8 pv: 5
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 8 pv: 6
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 6 pv: 7
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 4 pv: 6
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 3 pv: 7
+ PoissonClown Jeremy Herbivore M hermaphroditeOpporuniste age : 2 pv: 8
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 2 pv: 8
+ Jour 11
+-----------Celia a mordu Lucie
+David et David ont fait un enfant nommerJeanneAlgues 5 mangee par poisson Julie pv7
+Algues 5 mangee par poisson Eva pv8
+Algues 7 mangee par poisson Clemence pv8
+Algues 2 mangee par poisson Lucie pv5
+J ai ajouter 1 poissons
+ 
+Voici les algues
+age 11 Pv  : 5
+age 5 Pv  : 2
+age 5 Pv  : 6
+age 3 Pv  : 4
+age 3 Pv  : 3
+age 1 Pv  : 11
+age 0 Pv  : 8
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 11 pv: 6
+ bar Celia Carnivore F hermaphroditeAvecLAge age : 11 pv: 49
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 11 pv: 6
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 9 pv: 7
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 9 pv: 8
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 7 pv: 6
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 5 pv: 8
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 4 pv: 5
+ PoissonClown Jeremy Herbivore M hermaphroditeOpporuniste age : 3 pv: 7
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 3 pv: 7
+ PoissonClown Jeanne Herbivore F hermaphroditeOpporuniste age : 0 pv: 10
+ Jour 12
+-----------Algues 2 mangee par poisson David pv8
+Celia a mordu Jeremy
+Algues 3 mangee par poisson David pv8
+Algues 6 mangee par poisson Lorenzo pv8
+Algues 5 mangee par poisson Lucie pv7
+Algues 1 mangee par poisson Jeremy pv5
+
+ 
+Voici les algues
+age 12 Pv  : 4
+age 6 Pv  : 1
+age 6 Pv  : 5
+age 4 Pv  : 5
+age 4 Pv  : 2
+age 2 Pv  : 10
+age 1 Pv  : 9
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 12 pv: 8
+ bar Celia Carnivore F hermaphroditeAvecLAge age : 12 pv: 53
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 12 pv: 8
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 10 pv: 6
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 10 pv: 7
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 8 pv: 8
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 6 pv: 7
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 5 pv: 7
+ PoissonClown Jeremy Herbivore M hermaphroditeOpporuniste age : 4 pv: 5
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 4 pv: 6
+ PoissonClown Jeanne Herbivore F hermaphroditeOpporuniste age : 1 pv: 9
+ Jour 13
+-----------Celia a mordu David
+Algues 7 mangee par poisson Julie pv8
+Algues 2 mangee par poisson Jeremy pv7
+Algues 5 mangee par poisson Etienne pv8
+1 algues sont mortes aujourdhui
+
+ 
+Voici les algues
+age 13 Pv  : 5
+age 7 Pv  : 6
+age 5 Pv  : 6
+age 5 Pv  : 1
+age 3 Pv  : 11
+age 2 Pv  : 3
+age 0 Pv  : 10
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 13 pv: 3
+ bar Celia Carnivore F hermaphroditeAvecLAge age : 13 pv: 57
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 13 pv: 7
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 11 pv: 8
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 11 pv: 6
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 9 pv: 7
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 7 pv: 6
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 6 pv: 6
+ PoissonClown Jeremy Herbivore M hermaphroditeOpporuniste age : 5 pv: 7
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 5 pv: 8
+ PoissonClown Jeanne Herbivore F hermaphroditeOpporuniste age : 2 pv: 8
+ Jour 14
+-----------Algues 7 mangee par poisson David pv5
+Celia a mordu David
+Algues 6 mangee par poisson David pv5
+Algues 7 mangee par poisson Eva pv8
+Eva et Eva ont fait un enfant nommerManonAlgues 3 mangee par poisson Clemence pv8
+Algues 2 mangee par poisson Lucie pv8
+Jeremy et Jeremy ont fait un enfant nommerLouiseJ ai ajouter 2 poissons
+ 
+Voici les algues
+age 14 Pv  : 6
+age 8 Pv  : 5
+age 6 Pv  : 5
+age 6 Pv  : 2
+age 4 Pv  : 12
+age 3 Pv  : 2
+age 1 Pv  : 7
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 14 pv: 5
+ bar Celia Carnivore F hermaphroditeAvecLAge age : 14 pv: 61
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 14 pv: 5
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 12 pv: 7
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 12 pv: 8
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 10 pv: 6
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 8 pv: 8
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 7 pv: 8
+ PoissonClown Jeremy Herbivore F hermaphroditeOpporuniste age : 6 pv: 6
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 6 pv: 7
+ PoissonClown Jeanne Herbivore F hermaphroditeOpporuniste age : 3 pv: 7
+ PoissonClown Manon Herbivore F hermaphroditeOpporuniste age : 0 pv: 10
+ PoissonClown Louise Herbivore F hermaphroditeOpporuniste age : 0 pv: 10
+ Jour 15
+-----------Algues 3 mangee par poisson David pv7
+Celia a mordu Etienne
+Algues 5 mangee par poisson David pv7
+Algues 3 mangee par poisson Lorenzo pv8
+Algues 4 mangee par poisson Jeremy pv8
+Algues 1 mangee par poisson Etienne pv5
+
+ 
+Voici les algues
+age 15 Pv  : 5
+age 9 Pv  : 6
+age 7 Pv  : 2
+age 7 Pv  : 1
+age 5 Pv  : 11
+age 4 Pv  : 3
+age 2 Pv  : 8
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 15 pv: 7
+ bar Celia Carnivore F hermaphroditeAvecLAge age : 15 pv: 65
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 15 pv: 7
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 13 pv: 6
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 13 pv: 7
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 11 pv: 8
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 9 pv: 7
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 8 pv: 7
+ PoissonClown Jeremy Herbivore F hermaphroditeOpporuniste age : 7 pv: 8
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 7 pv: 5
+ PoissonClown Jeanne Herbivore F hermaphroditeOpporuniste age : 4 pv: 6
+ PoissonClown Manon Herbivore F hermaphroditeOpporuniste age : 1 pv: 9
+ PoissonClown Louise Herbivore F hermaphroditeOpporuniste age : 1 pv: 9
+ Jour 16
+-----------Celia a mordu Etienne
+Algues 2 mangee par poisson Julie pv8
+Algues 5 mangee par poisson Etienne pv3
+Algues 1 mangee par poisson Jeanne pv8
+
+ 
+Voici les algues
+age 16 Pv  : 4
+age 10 Pv  : 5
+age 8 Pv  : 3
+age 8 Pv  : 2
+age 6 Pv  : 10
+age 5 Pv  : 4
+age 3 Pv  : 9
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 16 pv: 6
+ bar Celia Carnivore F hermaphroditeAvecLAge age : 16 pv: 69
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 16 pv: 6
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 14 pv: 8
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 14 pv: 6
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 12 pv: 7
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 10 pv: 6
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 9 pv: 6
+ PoissonClown Jeremy Herbivore F hermaphroditeOpporuniste age : 8 pv: 7
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 8 pv: 3
+ PoissonClown Jeanne Herbivore F hermaphroditeOpporuniste age : 5 pv: 8
+ PoissonClown Manon Herbivore F hermaphroditeOpporuniste age : 2 pv: 8
+ PoissonClown Louise Herbivore F hermaphroditeOpporuniste age : 2 pv: 8
+ Jour 17
+-----------Algues 2 mangee par poisson David pv8
+Celia a mordu David
+Algues 3 mangee par poisson David pv4
+Algues 6 mangee par poisson Eva pv8
+Algues 8 mangee par poisson Clemence pv8
+Algues 6 mangee par poisson Lucie pv8
+Algues 3 mangee par poisson Etienne pv5
+1 algues sont mortes aujourdhui
+
+ 
+Voici les algues
+age 17 Pv  : 5
+age 11 Pv  : 4
+age 9 Pv  : 3
+age 7 Pv  : 11
+age 6 Pv  : 1
+age 4 Pv  : 5
+age 0 Pv  : 8
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 17 pv: 8
+ bar Celia Carnivore F hermaphroditeAvecLAge age : 17 pv: 73
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 17 pv: 4
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 15 pv: 7
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 15 pv: 8
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 13 pv: 6
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 11 pv: 8
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 10 pv: 8
+ PoissonClown Jeremy Herbivore F hermaphroditeOpporuniste age : 9 pv: 6
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 9 pv: 5
+ PoissonClown Jeanne Herbivore F hermaphroditeOpporuniste age : 6 pv: 7
+ PoissonClown Manon Herbivore F hermaphroditeOpporuniste age : 3 pv: 7
+ PoissonClown Louise Herbivore F hermaphroditeOpporuniste age : 3 pv: 7
+ Jour 18
+-----------Celia a mordu Manon
+Algues 6 mangee par poisson David pv6
+Algues 7 mangee par poisson Lorenzo pv8
+Algues 4 mangee par poisson Jeremy pv8
+Algues 7 mangee par poisson Etienne pv7
+Algues 6 mangee par poisson Manon pv5
+
+ 
+Voici les algues
+age 18 Pv  : 6
+age 12 Pv  : 5
+age 10 Pv  : 4
+age 8 Pv  : 10
+age 7 Pv  : 2
+age 5 Pv  : 2
+age 1 Pv  : 5
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 18 pv: 7
+ bar Celia Carnivore F hermaphroditeAvecLAge age : 18 pv: 77
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 18 pv: 6
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 16 pv: 6
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 16 pv: 7
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 14 pv: 8
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 12 pv: 7
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 11 pv: 7
+ PoissonClown Jeremy Herbivore F hermaphroditeOpporuniste age : 10 pv: 8
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 10 pv: 7
+ PoissonClown Jeanne Herbivore F hermaphroditeOpporuniste age : 7 pv: 6
+ PoissonClown Manon Herbivore F hermaphroditeOpporuniste age : 4 pv: 5
+ PoissonClown Louise Herbivore F hermaphroditeOpporuniste age : 4 pv: 6
+ Jour 19
+-----------Celia a mordu Clemence
+Algues 6 mangee par poisson David pv8
+Algues 6 mangee par poisson Julie pv8
+Algues 6 mangee par poisson Clemence pv5
+Algues 5 mangee par poisson Jeanne pv8
+Algues 6 mangee par poisson Manon pv7
+Algues 1 mangee par poisson Louise pv8
+1 algues sont mortes aujourdhui
+
+ 
+Voici les algues
+age 19 Pv  : 5
+age 13 Pv  : 6
+age 11 Pv  : 5
+age 9 Pv  : 11
+age 8 Pv  : 1
+age 2 Pv  : 6
+
+Voici les poissons
+PoissonClown David Herbivore F hermaphroditeOpporuniste age : 19 pv: 6
+ bar Celia Carnivore F hermaphroditeAvecLAge age : 19 pv: 81
+ PoissonClown David Herbivore F hermaphroditeOpporuniste age : 19 pv: 8
+ PoissonClown Julie Herbivore F hermaphroditeOpporuniste age : 17 pv: 8
+ PoissonClown Eva Herbivore F hermaphroditeOpporuniste age : 17 pv: 6
+ PoissonClown Lorenzo Herbivore M hermaphroditeOpporuniste age : 15 pv: 7
+ PoissonClown Clemence Herbivore F hermaphroditeOpporuniste age : 13 pv: 5
+ PoissonClown Lucie Herbivore F hermaphroditeOpporuniste age : 12 pv: 6
+ PoissonClown Jeremy Herbivore F hermaphroditeOpporuniste age : 11 pv: 7
+ PoissonClown Etienne Herbivore M hermaphroditeOpporuniste age : 11 pv: 6
+ PoissonClown Jeanne Herbivore F hermaphroditeOpporuniste age : 8 pv: 8
+ PoissonClown Manon Herbivore F hermaphroditeOpporuniste age : 5 pv: 7
+ PoissonClown Louise Herbivore F hermaphroditeOpporuniste age : 5 pv: 8
+ 
